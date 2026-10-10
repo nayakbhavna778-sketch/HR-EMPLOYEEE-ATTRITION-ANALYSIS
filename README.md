@@ -1,7 +1,12 @@
-
 # 👥 HR Employee Attrition Analysis
 
 An end-to-end data analytics project that explores **why employees leave a company**. The project covers data cleaning in **Python**, business analysis in **SQL**, and an interactive dashboard in **Power BI**.
+
+---
+
+## 📊 Dashboard Preview
+
+![HR Employee Attrition Dashboard](DASHBOARD%20PREVIEW.jpeg)
 
 ---
 
@@ -74,12 +79,6 @@ Queries written to answer questions such as:
 
 ### 3. Dashboard (Power BI)
 An interactive dashboard that visualises attrition across departments, job roles, overtime, income and tenure.
-
----
-
-## 📊 Dashboard Preview
-
-![HR Employee Attrition Dashboard](DASHBOARD%20PREVIEW.jpeg)
 
 ---
 
